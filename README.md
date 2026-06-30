@@ -1,1 +1,1 @@
-# serieA-Predicition-Model
+# serieA-Prediction-Model
